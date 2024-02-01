@@ -1,7 +1,8 @@
 body{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans Condensed';
     padding: 20px 60px;
     font-style: italic;
+    font-weight: bolder;
 }
 body::-webkit-scrollbar{
     width: 0.4vw;
